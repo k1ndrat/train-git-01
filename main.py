@@ -1,4 +1,5 @@
 from consts import *
+from functions import *
 
 print(5 + 5)
 print(MY_NAME)
@@ -10,4 +11,4 @@ while a > 0:
     a -= 1
 
 print("Code is finished!")
-print("Code is finished!")
+showMessage("Code is finished!")
