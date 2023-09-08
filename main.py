@@ -10,3 +10,4 @@ while a > 0:
     a -= 1
 
 print("Code is finished!")
+print("Code is finished!")
