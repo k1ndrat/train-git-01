@@ -1,2 +1,2 @@
 def showMessage(message):
-    print("WARNING MESSAGE: ", message)
+    print("WARNING MESSAGE:", message)
