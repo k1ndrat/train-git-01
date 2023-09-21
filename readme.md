@@ -70,4 +70,12 @@
    ```bash
    npm start
 
-   
+## Accessing the Application
+
+🌐 Access the superhero management system in your web browser:
+
+**`http://localhost:3000`**
+
+🔗 The Node.js backend API endpoints are located at:
+
+**`http://localhost:3500/api/superheroes`**
