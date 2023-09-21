@@ -1,6 +1,6 @@
-# Superhero Management System
+# Superhero Management App
 
-🦸‍♂️🦸‍♀️ A Superhero Management System 🦸‍♂️🦸‍♀️
+🦸‍♂️🦸‍♀️ A Superhero Management App 🦸‍♂️🦸‍♀️
 
 ## Features
 
