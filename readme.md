@@ -42,8 +42,30 @@
 
    ```bash
    npm install
+
+4. Configure the database connection by creating a .env file in the backend directory with your database URL:
+
+   ```bash
+   DATABASE_URI=mongodb+srv://s1sk0gryz:test123@cluster0.tsponeg.mongodb.net/Test?retryWrites=true&w=majority
    
-4. Start the React development server:
+5. Start the React development server:
+
+   ```bash
+   npm start
+
+## Running the React.js Frontend
+
+1. Open a new terminal window and navigate to the frontend directory:
+
+   ```bash
+   cd frontend
+   
+2. Install dependencies:
+
+   ```bash
+   npm install
+   
+3. Start the React development server:
 
    ```bash
    npm start
