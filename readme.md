@@ -32,3 +32,20 @@
 
    ```bash
    git clone <repository-url>
+   
+2. Navigate to the backend directory:
+
+   ```bash
+   cd backend
+   
+3. Install project dependencies:
+
+   ```bash
+   npm install
+   
+4. Start the React development server:
+
+   ```bash
+   npm start
+
+   
